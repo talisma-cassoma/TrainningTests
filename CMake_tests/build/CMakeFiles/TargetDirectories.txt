@@ -1,0 +1,3 @@
+/Users/talisma/Downloads/ContinuousDeliveryExample/build/CMakeFiles/Exec_test.dir
+/Users/talisma/Downloads/ContinuousDeliveryExample/build/CMakeFiles/edit_cache.dir
+/Users/talisma/Downloads/ContinuousDeliveryExample/build/CMakeFiles/rebuild_cache.dir
